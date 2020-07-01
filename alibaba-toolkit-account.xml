@@ -1,0 +1,19 @@
+<application>
+  <component name="AccountStore">
+    <option name="accountString" value="{&quot;ZhouXiangfu&quot;:{&quot;profileName&quot;:&quot;ZhouXiangfu&quot;,&quot;ak&quot;:&quot;LTAI4FyyS8n4vpczE97MV5Hi&quot;,&quot;secret&quot;:&quot;yHpN4p9YHnttES6sGozhxw5tDIWR8Q&quot;,&quot;show&quot;:false}}" />
+    <option name="allAccount">
+      <map>
+        <entry key="ZhouXiangfu">
+          <value>
+            <AccountModel>
+              <option name="ak" value="LTAI4FyyS8n4vpczE97MV5Hi" />
+              <option name="profileName" value="ZhouXiangfu" />
+              <option name="secret" value="yHpN4p9YHnttES6sGozhxw5tDIWR8Q" />
+            </AccountModel>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="defaultProfile" value="ZhouXiangfu" />
+  </component>
+</application>

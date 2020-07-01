@@ -1,0 +1,12 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectName="$USER_HOME$/Downloads/aliyun-oss-appserver-java-master" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/dev/Vinci/Vinci-Blog" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/dev/customer-support" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/dev/kezhuanyun/kezhuanyun/code/kezhuanyuan-service" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/dev/third-party-service" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/dev/广汉大数据" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/dev/广汉大数据/guanhang-report" firstStartUp="false" />
+  </component>
+</application>
