@@ -6,6 +6,10 @@
           <option name="url" value="http://git.idocoding.com" />
           <option name="userName" value="zxf@is-keen.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="531907207@qq.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
