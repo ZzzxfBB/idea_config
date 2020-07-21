@@ -18,6 +18,7 @@
     <entry projectName="$USER_HOME$/dev/litemall" firstStartUp="false" />
     <entry projectName="$USER_HOME$/dev/server-lib" firstStartUp="false" />
     <entry projectName="$USER_HOME$/dev/third-party-service" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/dev/wechat-pay" firstStartUp="false" />
     <entry projectName="$USER_HOME$/dev/广汉大数据" firstStartUp="false" />
     <entry projectName="$USER_HOME$/dev/广汉大数据/guanhang-report" firstStartUp="false" />
   </component>
