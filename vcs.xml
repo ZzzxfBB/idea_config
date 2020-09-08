@@ -14,8 +14,13 @@
           <option name="url" value="http://gitee.com" />
           <option name="userName" value="zxf@is-keen.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.idocoding.com:backend/spring-boot-project-stater.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/dev" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
